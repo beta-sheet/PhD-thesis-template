@@ -21,10 +21,10 @@ See [`cover/README.md`](cover/README.md) for instructions on how to create a sof
 
 ## Sample PDF
 
-[Sample](sample.pdf)
+[Sample](PhD_thesis_template.pdf)
 
 See my PhD thesis for a complete example:
-[High-resolution Kelvin probe force microscopy of active nanoelectronic devices](http://dx.doi.org/10.3929/ethz-a-010615234).
+[Force field development and adaptive resolution methods for molecular dynamics simulations](https://doi.org/10.3929/ethz-b-000508456).
 
 
 # License
@@ -32,5 +32,3 @@ See my PhD thesis for a complete example:
 [GPLv2](https://opensource.org/licenses/GPL-2.0) inherited from
 [ClassicThesis](https://www.ctan.org/tex-archive/macros/latex/contrib/classicthesis/).
 
-
-© 2017 [Tino Wagner](http://www.tinowagner.com/)
