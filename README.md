@@ -1,12 +1,6 @@
-# ethz-thesis
+# PhD Thesis template
 
-LaTeX template for a PhD thesis at ETH Zurich.
-
-- Based on [ClassicThesis](https://www.ctan.org/tex-archive/macros/latex/contrib/classicthesis/)
-  by André Miede.
-- Some ideas from [Patrick Pletscher](https://github.com/ppletscher/phd-thesis-sample)
-  (title page, chapter folders).
-- Adapted to A5 paperback size.
+LaTeX template for a PhD thesis at ETH Zurich. This template is based on [ethz-thesis](https://github.com/tuxu/ethz-thesis), which is itself based on [ClassicThesis](https://www.ctan.org/tex-archive/macros/latex/contrib/classicthesis/)
 
 
 ## Usage
@@ -14,7 +8,10 @@ LaTeX template for a PhD thesis at ETH Zurich.
 - Install [TeXLive](https://www.tug.org/texlive/) or [MacTeX](http://www.tug.org/mactex/).
 - Clone this repository.
 - Run `make` from the top level directory to compile.
-- …
+
+- Alternatively, compile on Overleaf:
+
+![Screenshot from 2021-11-04 20-08-43](https://user-images.githubusercontent.com/70756325/140404238-f81b210d-b3dd-432d-9867-eca3b932b547.png)
 
 
 ## Cover
